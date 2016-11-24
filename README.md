@@ -1,2 +1,3 @@
 # learn-es6
-xxxxxxxxxxx
+
+开始全力学习es6 ！ ！ ！
